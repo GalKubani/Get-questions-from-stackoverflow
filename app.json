@@ -23,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "kubani.questions.app.stackoverflow"
     },
     "web": {
       "favicon": "./assets/favicon.png"
